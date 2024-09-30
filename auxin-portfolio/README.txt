@@ -6,8 +6,8 @@ License URI: http://www.gnu.org/licenses/gpl.html
 Tags: phlox, gallery, elementor, portfolio, averta, auxin, fullwidth, masonry, timeline, projects, showcase, minimal, wix, flat
 Requires PHP: 5.6
 Requires at least: 4.7
-Tested up to: 6.5.5
-Stable tag: 2.3.3
+Tested up to: 6.6.2
+Stable tag: 2.3.5
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 
@@ -134,6 +134,10 @@ Bugs can be reported in our [support forums](http://support.averta.net/en/item/p
 
 
 == Changelog ==
+
+= Version 2.3.5 / (30.10.2024) =
+- [Fix]: Compatibility for WordPress 6.6.2 applied.
+- [Fix]: Minor security bugs fixed.
 
 = Version 2.3.3 / (10.07.2024) =
 - [Fix]: Compatibility for WordPress 6.5.5 applied.
