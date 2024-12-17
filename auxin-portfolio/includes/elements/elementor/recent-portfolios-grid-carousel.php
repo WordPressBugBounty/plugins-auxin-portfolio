@@ -1,17 +1,10 @@
 <?php
 namespace Auxin\Plugin\Portfolio\Elementor\Elements;
 
-use Elementor\Plugin;
 use Elementor\Widget_Base;
 use Elementor\Controls_Manager;
-use Elementor\Core\Files\CSS\Post;
-use Elementor\Group_Control_Image_Size;
 use Elementor\Group_Control_Typography;
-use Elementor\Core\Schemes\Color;
-use Elementor\Core\Schemes\Typography;
-use Elementor\Utils;
-use Elementor\Control_Media;
-use Elementor\Group_Control_Border;
+use Elementor\Core\Kits\Documents\Tabs\Global_Typography;
 use Elementor\Group_Control_Background;
 
 
@@ -753,7 +746,9 @@ class Recent_Portfolios_Grid_Carousel extends Widget_Base {
             Group_Control_Typography::get_type(),
             array(
                 'name' => 'title_typography',
-                'scheme' => Typography::TYPOGRAPHY_1,
+                'global' => [
+					'default' => Global_Typography::TYPOGRAPHY_PRIMARY,
+				],
                 'selector' => '{{WRAPPER}} .entry-header .entry-title a'
             )
         );
@@ -839,7 +834,9 @@ class Recent_Portfolios_Grid_Carousel extends Widget_Base {
             Group_Control_Typography::get_type(),
             array(
                 'name'      => 'info_typography',
-                'scheme'    => Typography::TYPOGRAPHY_1,
+                'global' => [
+					'default' => Global_Typography::TYPOGRAPHY_PRIMARY,
+				],
                 'selector'  => '{{WRAPPER}} .entry-tax'
             )
         );
@@ -940,7 +937,9 @@ class Recent_Portfolios_Grid_Carousel extends Widget_Base {
             Group_Control_Typography::get_type(),
             array(
                 'name' => 'carousel_typography',
-                'scheme' => Typography::TYPOGRAPHY_1,
+                'global' => [
+					'default' => Global_Typography::TYPOGRAPHY_PRIMARY,
+				],
                 'selector' => '{{WRAPPER}} .aux-mc-arrows .aux-text-arrow'
             )
         );

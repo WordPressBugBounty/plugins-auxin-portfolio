@@ -1,9 +1,9 @@
 # Averta Copyright (c) {2024}
 msgid ""
 msgstr ""
-"Project-Id-Version: Phlox Portfolio 2.3.5\n"
+"Project-Id-Version: Phlox Portfolio 2.3.7\n"
 "Report-Msgid-Bugs-To: http://averta.net/phlox/wordpress-theme/\n"
-"POT-Creation-Date: 2024-09-30 12:26:39+00:00\n"
+"POT-Creation-Date: 2024-12-17 07:00:17+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -77,26 +77,26 @@ msgstr ""
 #: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:67
 #: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:90
 #: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:232
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:152
-#: includes/elements/elementor/recent-portfolios-tile.php:150
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:145
+#: includes/elements/elementor/recent-portfolios-tile.php:143
 #: includes/elements/recent-portfolios.php:252 includes/general-hooks.php:156
 #: includes/general-hooks.php:888
 msgid "Default"
 msgstr ""
 
 #: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:71
-#: includes/elements/elementor/recent-portfolios-grid.php:422
-#: includes/elements/elementor/recent-portfolios-masonry.php:410
-#: includes/elements/elementor/recent-portfolios-tile.php:428
+#: includes/elements/elementor/recent-portfolios-grid.php:416
+#: includes/elements/elementor/recent-portfolios-masonry.php:404
+#: includes/elements/elementor/recent-portfolios-tile.php:421
 #: includes/elements/recent-portfolios.php:457 includes/general-hooks.php:137
 #: includes/general-hooks.php:1506
 msgid "Left"
 msgstr ""
 
 #: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:75
-#: includes/elements/elementor/recent-portfolios-grid.php:426
-#: includes/elements/elementor/recent-portfolios-masonry.php:414
-#: includes/elements/elementor/recent-portfolios-tile.php:432
+#: includes/elements/elementor/recent-portfolios-grid.php:420
+#: includes/elements/elementor/recent-portfolios-masonry.php:408
+#: includes/elements/elementor/recent-portfolios-tile.php:425
 #: includes/elements/recent-portfolios.php:461 includes/general-hooks.php:141
 #: includes/general-hooks.php:1510
 msgid "Center"
@@ -394,9 +394,9 @@ msgid "Grid"
 msgstr ""
 
 #: admin/includes/metaboxes/metabox-fields-portfolio-related.php:66
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:270
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:887
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:247
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:263
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:884
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:240
 msgid "Carousel"
 msgstr ""
 
@@ -790,477 +790,477 @@ msgstr ""
 msgid "Select..."
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:56
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:49
 msgid "Grid Carousel Portfolios"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:108
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:107
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:101
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:100
 msgid "All Categories"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:139
-#: includes/elements/elementor/recent-portfolios-grid.php:136
-#: includes/elements/elementor/recent-portfolios-masonry.php:135
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:138
-#: includes/elements/elementor/recent-portfolios-tile.php:136
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:132
+#: includes/elements/elementor/recent-portfolios-grid.php:130
+#: includes/elements/elementor/recent-portfolios-masonry.php:129
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:131
+#: includes/elements/elementor/recent-portfolios-tile.php:129
 #: includes/elements/recent-portfolios.php:201
 msgid "Layout"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:147
-#: includes/elements/elementor/recent-portfolios-grid.php:144
-#: includes/elements/elementor/recent-portfolios-masonry.php:143
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:140
+#: includes/elements/elementor/recent-portfolios-grid.php:138
+#: includes/elements/elementor/recent-portfolios-masonry.php:137
 msgid "Columns"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:153
-#: includes/elements/elementor/recent-portfolios-grid.php:150
-#: includes/elements/elementor/recent-portfolios-masonry.php:149
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:146
+#: includes/elements/elementor/recent-portfolios-grid.php:144
+#: includes/elements/elementor/recent-portfolios-masonry.php:143
 msgid "Inherited from larger"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:168
-#: includes/elements/elementor/recent-portfolios-grid.php:165
-#: includes/elements/elementor/recent-portfolios-masonry.php:164
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:195
-#: includes/elements/elementor/recent-portfolios-tile.php:193
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:161
+#: includes/elements/elementor/recent-portfolios-grid.php:159
+#: includes/elements/elementor/recent-portfolios-masonry.php:158
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:188
+#: includes/elements/elementor/recent-portfolios-tile.php:186
 msgid "Display title"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:170
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:181
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:192
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:203
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:243
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:355
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:367
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:487
-#: includes/elements/elementor/recent-portfolios-grid.php:167
-#: includes/elements/elementor/recent-portfolios-grid.php:178
-#: includes/elements/elementor/recent-portfolios-grid.php:189
-#: includes/elements/elementor/recent-portfolios-grid.php:201
-#: includes/elements/elementor/recent-portfolios-grid.php:213
-#: includes/elements/elementor/recent-portfolios-grid.php:238
-#: includes/elements/elementor/recent-portfolios-grid.php:289
-#: includes/elements/elementor/recent-portfolios-grid.php:387
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:163
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:174
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:185
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:196
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:236
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:348
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:360
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:480
+#: includes/elements/elementor/recent-portfolios-grid.php:161
+#: includes/elements/elementor/recent-portfolios-grid.php:172
+#: includes/elements/elementor/recent-portfolios-grid.php:183
+#: includes/elements/elementor/recent-portfolios-grid.php:195
+#: includes/elements/elementor/recent-portfolios-grid.php:207
+#: includes/elements/elementor/recent-portfolios-grid.php:232
+#: includes/elements/elementor/recent-portfolios-grid.php:283
+#: includes/elements/elementor/recent-portfolios-grid.php:381
 #: includes/elements/elementor/recent-portfolios-grid.php:698
-#: includes/elements/elementor/recent-portfolios-masonry.php:166
-#: includes/elements/elementor/recent-portfolios-masonry.php:177
-#: includes/elements/elementor/recent-portfolios-masonry.php:188
-#: includes/elements/elementor/recent-portfolios-masonry.php:200
-#: includes/elements/elementor/recent-portfolios-masonry.php:225
-#: includes/elements/elementor/recent-portfolios-masonry.php:276
-#: includes/elements/elementor/recent-portfolios-masonry.php:375
-#: includes/elements/elementor/recent-portfolios-masonry.php:553
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:197
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:208
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:220
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:307
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:319
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:393
-#: includes/elements/elementor/recent-portfolios-tile.php:195
-#: includes/elements/elementor/recent-portfolios-tile.php:206
-#: includes/elements/elementor/recent-portfolios-tile.php:218
-#: includes/elements/elementor/recent-portfolios-tile.php:243
-#: includes/elements/elementor/recent-portfolios-tile.php:294
-#: includes/elements/elementor/recent-portfolios-tile.php:393
-#: includes/elements/elementor/recent-portfolios-tile.php:571
+#: includes/elements/elementor/recent-portfolios-masonry.php:160
+#: includes/elements/elementor/recent-portfolios-masonry.php:171
+#: includes/elements/elementor/recent-portfolios-masonry.php:182
+#: includes/elements/elementor/recent-portfolios-masonry.php:194
+#: includes/elements/elementor/recent-portfolios-masonry.php:219
+#: includes/elements/elementor/recent-portfolios-masonry.php:270
+#: includes/elements/elementor/recent-portfolios-masonry.php:369
+#: includes/elements/elementor/recent-portfolios-masonry.php:547
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:190
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:201
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:213
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:300
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:312
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:386
+#: includes/elements/elementor/recent-portfolios-tile.php:188
+#: includes/elements/elementor/recent-portfolios-tile.php:199
+#: includes/elements/elementor/recent-portfolios-tile.php:211
+#: includes/elements/elementor/recent-portfolios-tile.php:236
+#: includes/elements/elementor/recent-portfolios-tile.php:287
+#: includes/elements/elementor/recent-portfolios-tile.php:386
+#: includes/elements/elementor/recent-portfolios-tile.php:564
 msgid "On"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:171
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:182
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:193
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:204
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:244
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:356
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:368
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:488
-#: includes/elements/elementor/recent-portfolios-grid.php:168
-#: includes/elements/elementor/recent-portfolios-grid.php:179
-#: includes/elements/elementor/recent-portfolios-grid.php:190
-#: includes/elements/elementor/recent-portfolios-grid.php:202
-#: includes/elements/elementor/recent-portfolios-grid.php:214
-#: includes/elements/elementor/recent-portfolios-grid.php:239
-#: includes/elements/elementor/recent-portfolios-grid.php:290
-#: includes/elements/elementor/recent-portfolios-grid.php:388
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:164
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:175
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:186
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:197
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:237
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:349
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:361
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:481
+#: includes/elements/elementor/recent-portfolios-grid.php:162
+#: includes/elements/elementor/recent-portfolios-grid.php:173
+#: includes/elements/elementor/recent-portfolios-grid.php:184
+#: includes/elements/elementor/recent-portfolios-grid.php:196
+#: includes/elements/elementor/recent-portfolios-grid.php:208
+#: includes/elements/elementor/recent-portfolios-grid.php:233
+#: includes/elements/elementor/recent-portfolios-grid.php:284
+#: includes/elements/elementor/recent-portfolios-grid.php:382
 #: includes/elements/elementor/recent-portfolios-grid.php:699
-#: includes/elements/elementor/recent-portfolios-masonry.php:167
-#: includes/elements/elementor/recent-portfolios-masonry.php:178
-#: includes/elements/elementor/recent-portfolios-masonry.php:189
-#: includes/elements/elementor/recent-portfolios-masonry.php:201
-#: includes/elements/elementor/recent-portfolios-masonry.php:226
-#: includes/elements/elementor/recent-portfolios-masonry.php:277
-#: includes/elements/elementor/recent-portfolios-masonry.php:376
-#: includes/elements/elementor/recent-portfolios-masonry.php:554
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:198
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:209
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:221
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:308
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:320
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:394
-#: includes/elements/elementor/recent-portfolios-tile.php:196
-#: includes/elements/elementor/recent-portfolios-tile.php:207
-#: includes/elements/elementor/recent-portfolios-tile.php:219
-#: includes/elements/elementor/recent-portfolios-tile.php:244
-#: includes/elements/elementor/recent-portfolios-tile.php:295
-#: includes/elements/elementor/recent-portfolios-tile.php:394
-#: includes/elements/elementor/recent-portfolios-tile.php:572
+#: includes/elements/elementor/recent-portfolios-masonry.php:161
+#: includes/elements/elementor/recent-portfolios-masonry.php:172
+#: includes/elements/elementor/recent-portfolios-masonry.php:183
+#: includes/elements/elementor/recent-portfolios-masonry.php:195
+#: includes/elements/elementor/recent-portfolios-masonry.php:220
+#: includes/elements/elementor/recent-portfolios-masonry.php:271
+#: includes/elements/elementor/recent-portfolios-masonry.php:370
+#: includes/elements/elementor/recent-portfolios-masonry.php:548
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:191
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:202
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:214
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:301
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:313
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:387
+#: includes/elements/elementor/recent-portfolios-tile.php:189
+#: includes/elements/elementor/recent-portfolios-tile.php:200
+#: includes/elements/elementor/recent-portfolios-tile.php:212
+#: includes/elements/elementor/recent-portfolios-tile.php:237
+#: includes/elements/elementor/recent-portfolios-tile.php:288
+#: includes/elements/elementor/recent-portfolios-tile.php:387
+#: includes/elements/elementor/recent-portfolios-tile.php:565
 msgid "Off"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:179
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:172
 msgid "Display Info"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:190
-#: includes/elements/elementor/recent-portfolios-grid.php:199
-#: includes/elements/elementor/recent-portfolios-masonry.php:186
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:183
+#: includes/elements/elementor/recent-portfolios-grid.php:193
+#: includes/elements/elementor/recent-portfolios-masonry.php:180
 #: includes/elements/recent-portfolios.php:764 includes/general-hooks.php:472
 msgid "Display like button"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:201
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:194
 msgid "Preload image"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:213
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:206
 msgid "While loading image display"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:228
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:221
 msgid "Placeholder color while loading image"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:240
-#: includes/elements/elementor/recent-portfolios-grid.php:210
-#: includes/elements/elementor/recent-portfolios-masonry.php:197
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:217
-#: includes/elements/elementor/recent-portfolios-tile.php:215
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:233
+#: includes/elements/elementor/recent-portfolios-grid.php:204
+#: includes/elements/elementor/recent-portfolios-masonry.php:191
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:210
+#: includes/elements/elementor/recent-portfolios-tile.php:208
 #: includes/elements/recent-portfolios.php:781
 msgid "Deeplink"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:241
-#: includes/elements/elementor/recent-portfolios-grid.php:211
-#: includes/elements/elementor/recent-portfolios-masonry.php:198
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:218
-#: includes/elements/elementor/recent-portfolios-tile.php:216
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:234
+#: includes/elements/elementor/recent-portfolios-grid.php:205
+#: includes/elements/elementor/recent-portfolios-masonry.php:192
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:211
+#: includes/elements/elementor/recent-portfolios-tile.php:209
 #: includes/elements/recent-portfolios.php:782
 msgid ""
 "Enables the deeplink feature, it updates URL based on page and filter "
 "status."
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:252
-#: includes/elements/elementor/recent-portfolios-grid.php:222
-#: includes/elements/elementor/recent-portfolios-masonry.php:209
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:229
-#: includes/elements/elementor/recent-portfolios-tile.php:227
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:245
+#: includes/elements/elementor/recent-portfolios-grid.php:216
+#: includes/elements/elementor/recent-portfolios-masonry.php:203
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:222
+#: includes/elements/elementor/recent-portfolios-tile.php:220
 #: includes/elements/recent-portfolios.php:805
 msgid "Deeplink slug"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:253
-#: includes/elements/elementor/recent-portfolios-grid.php:223
-#: includes/elements/elementor/recent-portfolios-masonry.php:210
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:230
-#: includes/elements/elementor/recent-portfolios-tile.php:228
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:246
+#: includes/elements/elementor/recent-portfolios-grid.php:217
+#: includes/elements/elementor/recent-portfolios-masonry.php:204
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:223
+#: includes/elements/elementor/recent-portfolios-tile.php:221
 #: includes/elements/recent-portfolios.php:806
 msgid "Specifies the deeplink slug value in address bar."
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:278
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:255
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:271
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:248
 #: includes/elements/recent-portfolios-tile-carousel.php:288
 msgid "Navigation control"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:282
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:275
 #: includes/elements/elementor/recent-portfolios-grid.php:724
-#: includes/elements/elementor/recent-portfolios-masonry.php:579
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:259
-#: includes/elements/elementor/recent-portfolios-tile.php:597
+#: includes/elements/elementor/recent-portfolios-masonry.php:573
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:252
+#: includes/elements/elementor/recent-portfolios-tile.php:590
 #: includes/elements/recent-portfolios-tile-carousel.php:298
 #: includes/elements/recent-portfolios.php:619 includes/general-hooks.php:1204
 #: includes/general-hooks.php:1579
 msgid "None"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:283
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:260
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:276
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:253
 #: includes/elements/recent-portfolios-tile-carousel.php:296
 msgid "Arrows"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:284
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:261
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:277
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:254
 #: includes/elements/recent-portfolios-tile-carousel.php:297
 msgid "Bullets"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:285
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:278
 #: includes/elements/elementor/recent-portfolios-grid.php:754
-#: includes/elements/elementor/recent-portfolios-masonry.php:609
-#: includes/elements/elementor/recent-portfolios-tile.php:627
+#: includes/elements/elementor/recent-portfolios-masonry.php:603
+#: includes/elements/elementor/recent-portfolios-tile.php:620
 #: includes/elements/recent-portfolios.php:645 includes/general-hooks.php:308
 #: includes/general-hooks.php:504
 msgid "Text"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:293
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:286
 #: includes/elements/elementor/recent-portfolios-grid.php:732
-#: includes/elements/elementor/recent-portfolios-masonry.php:587
-#: includes/elements/elementor/recent-portfolios-tile.php:605
+#: includes/elements/elementor/recent-portfolios-masonry.php:581
+#: includes/elements/elementor/recent-portfolios-tile.php:598
 #: includes/elements/recent-portfolios.php:627
 msgid "Next Button"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:295
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:288
 #: includes/elements/recent-portfolios-grid-carousel.php:36
 msgid "Next"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:305
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:298
 msgid "Previous Button"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:307
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:300
 #: public/templates/theme-parts/entry/single-portfolio.php:195
 msgid "Prev"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:317
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:269
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:310
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:262
 #: includes/elements/recent-portfolios-tile-carousel.php:310
 msgid "Button Navigation Style"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:322
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:156
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:274
-#: includes/elements/elementor/recent-portfolios-tile.php:154
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:315
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:149
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:267
+#: includes/elements/elementor/recent-portfolios-tile.php:147
 #: includes/elements/recent-portfolios-tile-carousel.php:327
 #: includes/elements/recent-portfolios.php:256
 msgid "Pattern 1"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:326
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:160
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:278
-#: includes/elements/elementor/recent-portfolios-tile.php:158
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:319
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:153
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:271
+#: includes/elements/elementor/recent-portfolios-tile.php:151
 #: includes/elements/recent-portfolios-tile-carousel.php:331
 #: includes/elements/recent-portfolios.php:260
 msgid "Pattern 2"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:339
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:291
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:332
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:284
 msgid "Navigation type"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:343
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:295
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:336
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:288
 msgid "Move per column"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:344
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:296
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:337
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:289
 msgid "Move per page"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:345
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:297
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:338
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:290
 msgid "Smooth scroll"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:353
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:305
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:346
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:298
 #: includes/elements/recent-portfolios-tile-carousel.php:337
 msgid "Loop navigation"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:365
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:317
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:358
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:310
 #: includes/elements/recent-portfolios-tile-carousel.php:352
 msgid "Autoplay carousel"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:377
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:329
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:370
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:322
 #: includes/elements/recent-portfolios-tile-carousel.php:368
 msgid "Autoplay delay"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:378
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:330
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:371
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:323
 #: includes/elements/recent-portfolios-tile-carousel.php:369
 msgid "Specifies the delay between auto-forwarding in seconds."
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:392
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:385
 #: includes/elements/elementor/recent-portfolios-grid.php:630
-#: includes/elements/elementor/recent-portfolios-masonry.php:485
-#: includes/elements/elementor/recent-portfolios-tile.php:503
+#: includes/elements/elementor/recent-portfolios-masonry.php:479
+#: includes/elements/elementor/recent-portfolios-tile.php:496
 msgid "Transition"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:400
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:393
 #: includes/elements/elementor/recent-portfolios-grid.php:638
-#: includes/elements/elementor/recent-portfolios-masonry.php:493
-#: includes/elements/elementor/recent-portfolios-tile.php:511
+#: includes/elements/elementor/recent-portfolios-masonry.php:487
+#: includes/elements/elementor/recent-portfolios-tile.php:504
 #: includes/elements/recent-portfolios.php:527
 msgid "Transition duration on reveal"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:401
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:394
 #: includes/elements/elementor/recent-portfolios-grid.php:639
-#: includes/elements/elementor/recent-portfolios-masonry.php:494
-#: includes/elements/elementor/recent-portfolios-tile.php:512
+#: includes/elements/elementor/recent-portfolios-masonry.php:488
+#: includes/elements/elementor/recent-portfolios-tile.php:505
 #: includes/elements/recent-portfolios.php:528
 msgid ""
 "The transition duration while the element is going to be displayed "
 "(milliseconds)."
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:411
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:404
 #: includes/elements/elementor/recent-portfolios-grid.php:649
-#: includes/elements/elementor/recent-portfolios-masonry.php:504
-#: includes/elements/elementor/recent-portfolios-tile.php:522
+#: includes/elements/elementor/recent-portfolios-masonry.php:498
+#: includes/elements/elementor/recent-portfolios-tile.php:515
 #: includes/elements/recent-portfolios.php:539
 msgid "Delay between reveal"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:412
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:405
 #: includes/elements/elementor/recent-portfolios-grid.php:650
-#: includes/elements/elementor/recent-portfolios-masonry.php:505
-#: includes/elements/elementor/recent-portfolios-tile.php:523
+#: includes/elements/elementor/recent-portfolios-masonry.php:499
+#: includes/elements/elementor/recent-portfolios-tile.php:516
 #: includes/elements/recent-portfolios.php:540
 msgid "The delay between each sequence of revealing transitions (milliseconds)."
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:422
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:415
 #: includes/elements/elementor/recent-portfolios-grid.php:660
-#: includes/elements/elementor/recent-portfolios-masonry.php:515
-#: includes/elements/elementor/recent-portfolios-tile.php:533
+#: includes/elements/elementor/recent-portfolios-masonry.php:509
+#: includes/elements/elementor/recent-portfolios-tile.php:526
 #: includes/elements/recent-portfolios.php:551
 msgid "Transition duration on hide"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:423
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:416
 #: includes/elements/elementor/recent-portfolios-grid.php:661
-#: includes/elements/elementor/recent-portfolios-masonry.php:516
-#: includes/elements/elementor/recent-portfolios-tile.php:534
+#: includes/elements/elementor/recent-portfolios-masonry.php:510
+#: includes/elements/elementor/recent-portfolios-tile.php:527
 #: includes/elements/recent-portfolios.php:552
 msgid ""
 "The transition duration while the element is going to be hidden "
 "(milliseconds)."
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:433
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:426
 #: includes/elements/elementor/recent-portfolios-grid.php:671
-#: includes/elements/elementor/recent-portfolios-masonry.php:526
-#: includes/elements/elementor/recent-portfolios-tile.php:544
+#: includes/elements/elementor/recent-portfolios-masonry.php:520
+#: includes/elements/elementor/recent-portfolios-tile.php:537
 #: includes/elements/recent-portfolios.php:563
 msgid "Delay between hide"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:434
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:427
 #: includes/elements/elementor/recent-portfolios-grid.php:672
-#: includes/elements/elementor/recent-portfolios-masonry.php:527
-#: includes/elements/elementor/recent-portfolios-tile.php:545
+#: includes/elements/elementor/recent-portfolios-masonry.php:521
+#: includes/elements/elementor/recent-portfolios-tile.php:538
 #: includes/elements/recent-portfolios.php:564
 msgid "The delay between each sequence of hiding transitions (milliseconds)."
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:453
-#: includes/elements/elementor/recent-portfolios-grid.php:256
-#: includes/elements/elementor/recent-portfolios-masonry.php:243
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:348
-#: includes/elements/elementor/recent-portfolios-tile.php:261
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:446
+#: includes/elements/elementor/recent-portfolios-grid.php:250
+#: includes/elements/elementor/recent-portfolios-masonry.php:237
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:341
+#: includes/elements/elementor/recent-portfolios-tile.php:254
 msgid "Query"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:460
-#: includes/elements/elementor/recent-portfolios-grid.php:263
-#: includes/elements/elementor/recent-portfolios-grid.php:1155
-#: includes/elements/elementor/recent-portfolios-masonry.php:250
-#: includes/elements/elementor/recent-portfolios-masonry.php:853
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:355
-#: includes/elements/elementor/recent-portfolios-tile.php:268
-#: includes/elements/elementor/recent-portfolios-tile.php:814
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:453
+#: includes/elements/elementor/recent-portfolios-grid.php:257
+#: includes/elements/elementor/recent-portfolios-grid.php:1159
+#: includes/elements/elementor/recent-portfolios-masonry.php:244
+#: includes/elements/elementor/recent-portfolios-masonry.php:849
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:348
+#: includes/elements/elementor/recent-portfolios-tile.php:261
+#: includes/elements/elementor/recent-portfolios-tile.php:809
 #: includes/elements/recent-portfolios-tile-carousel.php:55
 #: includes/elements/recent-portfolios.php:56
 #: public/templates/theme-parts/entry/single-portfolio.php:122
 msgid "Categories"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:461
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:356
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:454
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:349
 msgid "Specifies a category that you want to show posts from it."
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:472
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:367
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:465
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:360
 #: includes/elements/recent-portfolios-tile-carousel.php:71
 msgid "Number of portfolios to show in per page"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:473
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:368
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:466
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:361
 #: includes/elements/recent-portfolios-tile-carousel.php:72
 #: includes/elements/recent-portfolios.php:76
 msgid "Leave it empty to show all items"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:485
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:391
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:478
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:384
 #: includes/elements/recent-portfolios-tile-carousel.php:133
 #: includes/elements/recent-portfolios.php:89
 msgid "Exclude portfolios without media"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:497
-#: includes/elements/elementor/recent-portfolios-grid.php:298
-#: includes/elements/elementor/recent-portfolios-masonry.php:286
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:403
-#: includes/elements/elementor/recent-portfolios-tile.php:304
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:490
+#: includes/elements/elementor/recent-portfolios-grid.php:292
+#: includes/elements/elementor/recent-portfolios-masonry.php:280
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:396
+#: includes/elements/elementor/recent-portfolios-tile.php:297
 #: includes/elements/recent-portfolios-tile-carousel.php:146
 #: includes/elements/recent-portfolios.php:102
 msgid "Order by"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:501
-#: includes/elements/elementor/recent-portfolios-grid.php:302
-#: includes/elements/elementor/recent-portfolios-masonry.php:290
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:407
-#: includes/elements/elementor/recent-portfolios-tile.php:308
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:494
+#: includes/elements/elementor/recent-portfolios-grid.php:296
+#: includes/elements/elementor/recent-portfolios-masonry.php:284
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:400
+#: includes/elements/elementor/recent-portfolios-tile.php:301
 #: includes/elements/recent-portfolios-tile-carousel.php:154
 #: includes/elements/recent-portfolios.php:110
 msgid "Date"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:502
-#: includes/elements/elementor/recent-portfolios-grid.php:303
-#: includes/elements/elementor/recent-portfolios-masonry.php:291
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:408
-#: includes/elements/elementor/recent-portfolios-tile.php:309
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:495
+#: includes/elements/elementor/recent-portfolios-grid.php:297
+#: includes/elements/elementor/recent-portfolios-masonry.php:285
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:401
+#: includes/elements/elementor/recent-portfolios-tile.php:302
 #: includes/elements/recent-portfolios-tile-carousel.php:155
 #: includes/elements/recent-portfolios.php:111
 msgid "Menu Order"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:503
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:698
-#: includes/elements/elementor/recent-portfolios-grid.php:304
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:496
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:691
+#: includes/elements/elementor/recent-portfolios-grid.php:298
 #: includes/elements/elementor/recent-portfolios-grid.php:898
-#: includes/elements/elementor/recent-portfolios-masonry.php:292
-#: includes/elements/elementor/recent-portfolios-masonry.php:740
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:409
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:534
-#: includes/elements/elementor/recent-portfolios-tile.php:310
-#: includes/elements/elementor/recent-portfolios-tile.php:701
+#: includes/elements/elementor/recent-portfolios-masonry.php:286
+#: includes/elements/elementor/recent-portfolios-masonry.php:734
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:402
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:527
+#: includes/elements/elementor/recent-portfolios-tile.php:303
+#: includes/elements/elementor/recent-portfolios-tile.php:694
 #: includes/elements/recent-portfolios-tile-carousel.php:41
 #: includes/elements/recent-portfolios-tile-carousel.php:156
 #: includes/elements/recent-portfolios.php:42
@@ -1268,278 +1268,278 @@ msgstr ""
 msgid "Title"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:504
-#: includes/elements/elementor/recent-portfolios-grid.php:305
-#: includes/elements/elementor/recent-portfolios-masonry.php:293
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:410
-#: includes/elements/elementor/recent-portfolios-tile.php:311
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:497
+#: includes/elements/elementor/recent-portfolios-grid.php:299
+#: includes/elements/elementor/recent-portfolios-masonry.php:287
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:403
+#: includes/elements/elementor/recent-portfolios-tile.php:304
 #: includes/elements/recent-portfolios-tile-carousel.php:157
 #: includes/elements/recent-portfolios.php:113
 msgid "ID"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:505
-#: includes/elements/elementor/recent-portfolios-grid.php:306
-#: includes/elements/elementor/recent-portfolios-masonry.php:294
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:411
-#: includes/elements/elementor/recent-portfolios-tile.php:312
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:498
+#: includes/elements/elementor/recent-portfolios-grid.php:300
+#: includes/elements/elementor/recent-portfolios-masonry.php:288
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:404
+#: includes/elements/elementor/recent-portfolios-tile.php:305
 #: includes/elements/recent-portfolios-tile-carousel.php:158
 #: includes/elements/recent-portfolios.php:114
 msgid "Random"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:506
-#: includes/elements/elementor/recent-portfolios-grid.php:307
-#: includes/elements/elementor/recent-portfolios-masonry.php:295
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:412
-#: includes/elements/elementor/recent-portfolios-tile.php:313
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:499
+#: includes/elements/elementor/recent-portfolios-grid.php:301
+#: includes/elements/elementor/recent-portfolios-masonry.php:289
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:405
+#: includes/elements/elementor/recent-portfolios-tile.php:306
 #: includes/elements/recent-portfolios-tile-carousel.php:159
 #: includes/elements/recent-portfolios.php:115
 msgid "Comments"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:507
-#: includes/elements/elementor/recent-portfolios-grid.php:308
-#: includes/elements/elementor/recent-portfolios-masonry.php:296
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:413
-#: includes/elements/elementor/recent-portfolios-tile.php:314
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:500
+#: includes/elements/elementor/recent-portfolios-grid.php:302
+#: includes/elements/elementor/recent-portfolios-masonry.php:290
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:406
+#: includes/elements/elementor/recent-portfolios-tile.php:307
 #: includes/elements/recent-portfolios-tile-carousel.php:160
 #: includes/elements/recent-portfolios.php:116
 msgid "Date Modified"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:508
-#: includes/elements/elementor/recent-portfolios-grid.php:309
-#: includes/elements/elementor/recent-portfolios-masonry.php:297
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:414
-#: includes/elements/elementor/recent-portfolios-tile.php:315
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:501
+#: includes/elements/elementor/recent-portfolios-grid.php:303
+#: includes/elements/elementor/recent-portfolios-masonry.php:291
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:407
+#: includes/elements/elementor/recent-portfolios-tile.php:308
 #: includes/elements/recent-portfolios-tile-carousel.php:161
 #: includes/elements/recent-portfolios.php:117 includes/general-hooks.php:3439
 msgid "Author"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:509
-#: includes/elements/elementor/recent-portfolios-grid.php:310
-#: includes/elements/elementor/recent-portfolios-masonry.php:298
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:415
-#: includes/elements/elementor/recent-portfolios-tile.php:316
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:502
+#: includes/elements/elementor/recent-portfolios-grid.php:304
+#: includes/elements/elementor/recent-portfolios-masonry.php:292
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:408
+#: includes/elements/elementor/recent-portfolios-tile.php:309
 #: includes/elements/recent-portfolios-tile-carousel.php:162
 #: includes/elements/recent-portfolios.php:118
 msgid "Inserted Post IDs"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:517
-#: includes/elements/elementor/recent-portfolios-grid.php:318
-#: includes/elements/elementor/recent-portfolios-masonry.php:306
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:423
-#: includes/elements/elementor/recent-portfolios-tile.php:324
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:510
+#: includes/elements/elementor/recent-portfolios-grid.php:312
+#: includes/elements/elementor/recent-portfolios-masonry.php:300
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:416
+#: includes/elements/elementor/recent-portfolios-tile.php:317
 #: includes/elements/recent-portfolios-tile-carousel.php:171
 #: includes/elements/recent-portfolios.php:127
 msgid "Order"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:521
-#: includes/elements/elementor/recent-portfolios-grid.php:322
-#: includes/elements/elementor/recent-portfolios-masonry.php:310
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:427
-#: includes/elements/elementor/recent-portfolios-tile.php:328
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:514
+#: includes/elements/elementor/recent-portfolios-grid.php:316
+#: includes/elements/elementor/recent-portfolios-masonry.php:304
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:420
+#: includes/elements/elementor/recent-portfolios-tile.php:321
 #: includes/elements/recent-portfolios-tile-carousel.php:179
 #: includes/elements/recent-portfolios.php:135
 msgid "Descending"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:522
-#: includes/elements/elementor/recent-portfolios-grid.php:323
-#: includes/elements/elementor/recent-portfolios-masonry.php:311
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:428
-#: includes/elements/elementor/recent-portfolios-tile.php:329
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:515
+#: includes/elements/elementor/recent-portfolios-grid.php:317
+#: includes/elements/elementor/recent-portfolios-masonry.php:305
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:421
+#: includes/elements/elementor/recent-portfolios-tile.php:322
 #: includes/elements/recent-portfolios-tile-carousel.php:180
 #: includes/elements/recent-portfolios.php:136
 msgid "Ascending"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:530
-#: includes/elements/elementor/recent-portfolios-grid.php:331
-#: includes/elements/elementor/recent-portfolios-masonry.php:319
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:436
-#: includes/elements/elementor/recent-portfolios-tile.php:337
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:523
+#: includes/elements/elementor/recent-portfolios-grid.php:325
+#: includes/elements/elementor/recent-portfolios-masonry.php:313
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:429
+#: includes/elements/elementor/recent-portfolios-tile.php:330
 #: includes/elements/recent-portfolios-tile-carousel.php:189
 #: includes/elements/recent-portfolios.php:145
 msgid "Only portfolios"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:531
-#: includes/elements/elementor/recent-portfolios-grid.php:332
-#: includes/elements/elementor/recent-portfolios-masonry.php:320
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:437
-#: includes/elements/elementor/recent-portfolios-tile.php:338
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:524
+#: includes/elements/elementor/recent-portfolios-grid.php:326
+#: includes/elements/elementor/recent-portfolios-masonry.php:314
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:430
+#: includes/elements/elementor/recent-portfolios-tile.php:331
 msgid ""
 "If you intend to display ONLY specific portfolios, you should specify the "
 "portfolios here. You have to insert the post IDs that are separated by "
 "comma (eg. 53,34,87,25)."
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:539
-#: includes/elements/elementor/recent-portfolios-grid.php:340
-#: includes/elements/elementor/recent-portfolios-masonry.php:328
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:445
-#: includes/elements/elementor/recent-portfolios-tile.php:346
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:532
+#: includes/elements/elementor/recent-portfolios-grid.php:334
+#: includes/elements/elementor/recent-portfolios-masonry.php:322
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:438
+#: includes/elements/elementor/recent-portfolios-tile.php:339
 #: includes/elements/recent-portfolios-tile-carousel.php:203
 #: includes/elements/recent-portfolios.php:159
 msgid "Include portfolios"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:540
-#: includes/elements/elementor/recent-portfolios-grid.php:341
-#: includes/elements/elementor/recent-portfolios-masonry.php:329
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:446
-#: includes/elements/elementor/recent-portfolios-tile.php:347
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:533
+#: includes/elements/elementor/recent-portfolios-grid.php:335
+#: includes/elements/elementor/recent-portfolios-masonry.php:323
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:439
+#: includes/elements/elementor/recent-portfolios-tile.php:340
 msgid ""
 "If you intend to include additional portfolios, you should specify the "
 "portfolios here. You have to insert the Post IDs that are separated by "
 "comma (eg. 53,34,87,25)"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:548
-#: includes/elements/elementor/recent-portfolios-grid.php:349
-#: includes/elements/elementor/recent-portfolios-masonry.php:337
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:454
-#: includes/elements/elementor/recent-portfolios-tile.php:355
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:541
+#: includes/elements/elementor/recent-portfolios-grid.php:343
+#: includes/elements/elementor/recent-portfolios-masonry.php:331
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:447
+#: includes/elements/elementor/recent-portfolios-tile.php:348
 msgid "Exclude portfolios"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:549
-#: includes/elements/elementor/recent-portfolios-grid.php:350
-#: includes/elements/elementor/recent-portfolios-masonry.php:338
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:455
-#: includes/elements/elementor/recent-portfolios-tile.php:356
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:542
+#: includes/elements/elementor/recent-portfolios-grid.php:344
+#: includes/elements/elementor/recent-portfolios-masonry.php:332
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:448
+#: includes/elements/elementor/recent-portfolios-tile.php:349
 msgid ""
 "If you intend to exclude specific portfolios from result, you should "
 "specify the portfolios here. You have to insert the Post IDs that are "
 "separated by comma (eg. 53,34,87,25)"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:557
-#: includes/elements/elementor/recent-portfolios-grid.php:358
-#: includes/elements/elementor/recent-portfolios-masonry.php:346
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:463
-#: includes/elements/elementor/recent-portfolios-tile.php:364
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:550
+#: includes/elements/elementor/recent-portfolios-grid.php:352
+#: includes/elements/elementor/recent-portfolios-masonry.php:340
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:456
+#: includes/elements/elementor/recent-portfolios-tile.php:357
 #: includes/elements/recent-portfolios-tile-carousel.php:231
 #: includes/elements/recent-portfolios.php:187
 msgid "Start offset"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:558
-#: includes/elements/elementor/recent-portfolios-grid.php:359
-#: includes/elements/elementor/recent-portfolios-masonry.php:347
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:464
-#: includes/elements/elementor/recent-portfolios-tile.php:365
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:551
+#: includes/elements/elementor/recent-portfolios-grid.php:353
+#: includes/elements/elementor/recent-portfolios-masonry.php:341
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:457
+#: includes/elements/elementor/recent-portfolios-tile.php:358
 #: includes/elements/recent-portfolios.php:188
 msgid "Number of portfolios to display or pass over."
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:576
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:569
 #: includes/elements/elementor/recent-portfolios-grid.php:776
-#: includes/elements/elementor/recent-portfolios-masonry.php:643
-#: includes/elements/elementor/recent-portfolios-tile.php:649
+#: includes/elements/elementor/recent-portfolios-masonry.php:637
+#: includes/elements/elementor/recent-portfolios-tile.php:642
 msgid "Image"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:584
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:577
 #: includes/elements/elementor/recent-portfolios-grid.php:784
-#: includes/elements/elementor/recent-portfolios-masonry.php:651
+#: includes/elements/elementor/recent-portfolios-masonry.php:645
 #: includes/elements/recent-portfolios.php:659 includes/general-hooks.php:2520
 #: includes/general-hooks.php:3201
 msgid "Space"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:585
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:578
 #: includes/elements/elementor/recent-portfolios-grid.php:785
-#: includes/elements/elementor/recent-portfolios-masonry.php:652
+#: includes/elements/elementor/recent-portfolios-masonry.php:646
 #: includes/elements/recent-portfolios.php:660 includes/general-hooks.php:2521
 #: includes/general-hooks.php:3202
 msgid "Specifies horizontal space between items (pixel)."
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:597
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:590
 #: includes/elements/elementor/recent-portfolios-grid.php:797
 #: includes/elements/recent-portfolios.php:291 includes/general-hooks.php:2024
 msgid "Image aspect ratio"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:601
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:594
 #: includes/elements/recent-portfolios.php:299 includes/general-hooks.php:2037
 #: includes/general-hooks.php:2399 includes/general-hooks.php:3087
 msgid "Horizontal 4:3"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:602
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:595
 #: includes/elements/recent-portfolios.php:300 includes/general-hooks.php:2038
 #: includes/general-hooks.php:2400 includes/general-hooks.php:3088
 msgid "Horizontal 16:9"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:603
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:596
 msgid "Square     1:1"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:604
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:597
 msgid "Vertical   3:4"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:605
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:598
 #: includes/elements/elementor/recent-portfolios-grid.php:805
 msgid "Custom"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:613
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:606
 #: includes/elements/elementor/recent-portfolios-grid.php:813
 msgid "Custom image aspect ratio"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:628
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:621
 #: includes/elements/elementor/recent-portfolios-grid.php:828
-#: includes/elements/elementor/recent-portfolios-masonry.php:681
+#: includes/elements/elementor/recent-portfolios-masonry.php:675
 msgid "Hover Type"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:629
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:622
 #: includes/elements/elementor/recent-portfolios-grid.php:829
-#: includes/elements/elementor/recent-portfolios-masonry.php:682
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:147
-#: includes/elements/elementor/recent-portfolios-tile.php:145
+#: includes/elements/elementor/recent-portfolios-masonry.php:676
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:140
+#: includes/elements/elementor/recent-portfolios-tile.php:138
 msgid "Move your mouse over each item in order to preview the hover effect."
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:634
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:627
 #: includes/elements/elementor/recent-portfolios-grid.php:834
-#: includes/elements/elementor/recent-portfolios-masonry.php:687
+#: includes/elements/elementor/recent-portfolios-masonry.php:681
 #: includes/elements/recent-portfolios.php:330 includes/general-hooks.php:2431
 #: includes/general-hooks.php:3119
 msgid "No animation"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:638
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:631
 #: includes/elements/elementor/recent-portfolios-grid.php:838
-#: includes/elements/elementor/recent-portfolios-masonry.php:691
+#: includes/elements/elementor/recent-portfolios-masonry.php:685
 #: includes/elements/recent-portfolios.php:334 includes/general-hooks.php:2436
 #: includes/general-hooks.php:3123
 msgid "Classic with lightbox style 1"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:642
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:635
 #: includes/elements/elementor/recent-portfolios-grid.php:842
-#: includes/elements/elementor/recent-portfolios-masonry.php:695
+#: includes/elements/elementor/recent-portfolios-masonry.php:689
 #: includes/elements/recent-portfolios.php:338 includes/general-hooks.php:2441
 #: includes/general-hooks.php:3127
 msgid "Classic with lightbox style 2"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:646
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:639
 #: includes/elements/elementor/recent-portfolios-grid.php:846
-#: includes/elements/elementor/recent-portfolios-masonry.php:699
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:496
-#: includes/elements/elementor/recent-portfolios-tile.php:663
+#: includes/elements/elementor/recent-portfolios-masonry.php:693
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:489
+#: includes/elements/elementor/recent-portfolios-tile.php:656
 #: includes/elements/recent-portfolios-tile-carousel.php:101
 #: includes/elements/recent-portfolios.php:342
 #: includes/elements/recent-portfolios.php:410 includes/general-hooks.php:2446
@@ -1548,11 +1548,11 @@ msgstr ""
 msgid "Overlay title style 1"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:650
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:643
 #: includes/elements/elementor/recent-portfolios-grid.php:850
-#: includes/elements/elementor/recent-portfolios-masonry.php:703
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:500
-#: includes/elements/elementor/recent-portfolios-tile.php:667
+#: includes/elements/elementor/recent-portfolios-masonry.php:697
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:493
+#: includes/elements/elementor/recent-portfolios-tile.php:660
 #: includes/elements/recent-portfolios-tile-carousel.php:105
 #: includes/elements/recent-portfolios.php:346
 #: includes/elements/recent-portfolios.php:411 includes/general-hooks.php:2451
@@ -1561,11 +1561,11 @@ msgstr ""
 msgid "Overlay title style 2"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:654
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:647
 #: includes/elements/elementor/recent-portfolios-grid.php:854
-#: includes/elements/elementor/recent-portfolios-masonry.php:707
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:504
-#: includes/elements/elementor/recent-portfolios-tile.php:671
+#: includes/elements/elementor/recent-portfolios-masonry.php:701
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:497
+#: includes/elements/elementor/recent-portfolios-tile.php:664
 #: includes/elements/recent-portfolios-tile-carousel.php:109
 #: includes/elements/recent-portfolios.php:350
 #: includes/elements/recent-portfolios.php:412 includes/general-hooks.php:2456
@@ -1574,11 +1574,11 @@ msgstr ""
 msgid "Overlay title with lightbox style 1"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:658
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:651
 #: includes/elements/elementor/recent-portfolios-grid.php:858
-#: includes/elements/elementor/recent-portfolios-masonry.php:711
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:508
-#: includes/elements/elementor/recent-portfolios-tile.php:675
+#: includes/elements/elementor/recent-portfolios-masonry.php:705
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:501
+#: includes/elements/elementor/recent-portfolios-tile.php:668
 #: includes/elements/recent-portfolios-tile-carousel.php:113
 #: includes/elements/recent-portfolios.php:354
 #: includes/elements/recent-portfolios.php:413 includes/general-hooks.php:2461
@@ -1587,360 +1587,360 @@ msgstr ""
 msgid "Overlay title with lightbox style 2"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:669
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:662
 #: includes/elements/elementor/recent-portfolios-grid.php:869
-#: includes/elements/elementor/recent-portfolios-grid.php:1138
-#: includes/elements/elementor/recent-portfolios-masonry.php:722
+#: includes/elements/elementor/recent-portfolios-grid.php:1142
+#: includes/elements/elementor/recent-portfolios-masonry.php:716
 msgid "Border Radius"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:683
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:676
 #: includes/elements/elementor/recent-portfolios-grid.php:883
-#: includes/elements/elementor/recent-portfolios-tile.php:686
+#: includes/elements/elementor/recent-portfolios-tile.php:679
 msgid "Background"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:713
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:799
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:900
-#: includes/elements/elementor/recent-portfolios-grid.php:500
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:706
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:794
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:897
+#: includes/elements/elementor/recent-portfolios-grid.php:494
 #: includes/elements/elementor/recent-portfolios-grid.php:920
-#: includes/elements/elementor/recent-portfolios-grid.php:1025
-#: includes/elements/elementor/recent-portfolios-grid.php:1175
-#: includes/elements/elementor/recent-portfolios-masonry.php:762
-#: includes/elements/elementor/recent-portfolios-masonry.php:873
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:556
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:667
-#: includes/elements/elementor/recent-portfolios-tile.php:723
-#: includes/elements/elementor/recent-portfolios-tile.php:834
+#: includes/elements/elementor/recent-portfolios-grid.php:1027
+#: includes/elements/elementor/recent-portfolios-grid.php:1179
+#: includes/elements/elementor/recent-portfolios-masonry.php:756
+#: includes/elements/elementor/recent-portfolios-masonry.php:869
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:549
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:662
+#: includes/elements/elementor/recent-portfolios-tile.php:716
+#: includes/elements/elementor/recent-portfolios-tile.php:829
 msgid "Normal"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:720
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:740
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:806
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:826
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:907
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:927
-#: includes/elements/elementor/recent-portfolios-grid.php:507
-#: includes/elements/elementor/recent-portfolios-grid.php:548
-#: includes/elements/elementor/recent-portfolios-grid.php:589
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:713
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:733
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:801
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:821
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:904
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:924
+#: includes/elements/elementor/recent-portfolios-grid.php:501
+#: includes/elements/elementor/recent-portfolios-grid.php:544
+#: includes/elements/elementor/recent-portfolios-grid.php:587
 #: includes/elements/elementor/recent-portfolios-grid.php:930
 #: includes/elements/elementor/recent-portfolios-grid.php:956
-#: includes/elements/elementor/recent-portfolios-grid.php:1048
-#: includes/elements/elementor/recent-portfolios-grid.php:1087
-#: includes/elements/elementor/recent-portfolios-grid.php:1185
-#: includes/elements/elementor/recent-portfolios-grid.php:1211
-#: includes/elements/elementor/recent-portfolios-masonry.php:772
-#: includes/elements/elementor/recent-portfolios-masonry.php:798
-#: includes/elements/elementor/recent-portfolios-masonry.php:883
-#: includes/elements/elementor/recent-portfolios-masonry.php:909
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:566
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:592
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:677
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:703
-#: includes/elements/elementor/recent-portfolios-tile.php:733
-#: includes/elements/elementor/recent-portfolios-tile.php:759
-#: includes/elements/elementor/recent-portfolios-tile.php:844
-#: includes/elements/elementor/recent-portfolios-tile.php:870
+#: includes/elements/elementor/recent-portfolios-grid.php:1050
+#: includes/elements/elementor/recent-portfolios-grid.php:1089
+#: includes/elements/elementor/recent-portfolios-grid.php:1189
+#: includes/elements/elementor/recent-portfolios-grid.php:1215
+#: includes/elements/elementor/recent-portfolios-masonry.php:766
+#: includes/elements/elementor/recent-portfolios-masonry.php:792
+#: includes/elements/elementor/recent-portfolios-masonry.php:879
+#: includes/elements/elementor/recent-portfolios-masonry.php:905
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:559
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:585
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:672
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:698
+#: includes/elements/elementor/recent-portfolios-tile.php:726
+#: includes/elements/elementor/recent-portfolios-tile.php:752
+#: includes/elements/elementor/recent-portfolios-tile.php:839
+#: includes/elements/elementor/recent-portfolios-tile.php:865
 msgid "Color"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:733
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:819
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:920
-#: includes/elements/elementor/recent-portfolios-grid.php:541
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:726
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:814
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:917
+#: includes/elements/elementor/recent-portfolios-grid.php:537
 #: includes/elements/elementor/recent-portfolios-grid.php:946
-#: includes/elements/elementor/recent-portfolios-grid.php:1064
-#: includes/elements/elementor/recent-portfolios-grid.php:1201
-#: includes/elements/elementor/recent-portfolios-masonry.php:788
-#: includes/elements/elementor/recent-portfolios-masonry.php:899
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:482
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:582
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:693
-#: includes/elements/elementor/recent-portfolios-tile.php:749
-#: includes/elements/elementor/recent-portfolios-tile.php:860
+#: includes/elements/elementor/recent-portfolios-grid.php:1066
+#: includes/elements/elementor/recent-portfolios-grid.php:1205
+#: includes/elements/elementor/recent-portfolios-masonry.php:782
+#: includes/elements/elementor/recent-portfolios-masonry.php:895
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:475
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:575
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:688
+#: includes/elements/elementor/recent-portfolios-tile.php:742
+#: includes/elements/elementor/recent-portfolios-tile.php:855
 msgid "Hover"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:764
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:850
-#: includes/elements/elementor/recent-portfolios-grid.php:986
-#: includes/elements/elementor/recent-portfolios-grid.php:1241
-#: includes/elements/elementor/recent-portfolios-masonry.php:828
-#: includes/elements/elementor/recent-portfolios-masonry.php:939
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:622
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:733
-#: includes/elements/elementor/recent-portfolios-tile.php:789
-#: includes/elements/elementor/recent-portfolios-tile.php:900
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:759
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:847
+#: includes/elements/elementor/recent-portfolios-grid.php:988
+#: includes/elements/elementor/recent-portfolios-grid.php:1247
+#: includes/elements/elementor/recent-portfolios-masonry.php:824
+#: includes/elements/elementor/recent-portfolios-masonry.php:937
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:617
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:730
+#: includes/elements/elementor/recent-portfolios-tile.php:784
+#: includes/elements/elementor/recent-portfolios-tile.php:897
 msgid "Bottom space"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:786
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:781
 msgid "Info Meta"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid-carousel.php:866
-#: includes/elements/elementor/recent-portfolios-grid.php:1260
-#: includes/elements/elementor/recent-portfolios-masonry.php:958
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:752
-#: includes/elements/elementor/recent-portfolios-tile.php:919
+#: includes/elements/elementor/recent-portfolios-grid-carousel.php:863
+#: includes/elements/elementor/recent-portfolios-grid.php:1266
+#: includes/elements/elementor/recent-portfolios-masonry.php:956
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:749
+#: includes/elements/elementor/recent-portfolios-tile.php:916
 msgid "Space between metas"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:56
+#: includes/elements/elementor/recent-portfolios-grid.php:50
 msgid "Grid Portfolios"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:176
+#: includes/elements/elementor/recent-portfolios-grid.php:170
 msgid "Display categories"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:187
+#: includes/elements/elementor/recent-portfolios-grid.php:181
 msgid "Display Read More"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:235
-#: includes/elements/elementor/recent-portfolios-masonry.php:222
-#: includes/elements/elementor/recent-portfolios-tile.php:240
+#: includes/elements/elementor/recent-portfolios-grid.php:229
+#: includes/elements/elementor/recent-portfolios-masonry.php:216
+#: includes/elements/elementor/recent-portfolios-tile.php:233
 #: includes/elements/recent-portfolios.php:793
 msgid "Ajax Compatibility"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:236
-#: includes/elements/elementor/recent-portfolios-masonry.php:223
-#: includes/elements/elementor/recent-portfolios-tile.php:241
+#: includes/elements/elementor/recent-portfolios-grid.php:230
+#: includes/elements/elementor/recent-portfolios-masonry.php:217
+#: includes/elements/elementor/recent-portfolios-tile.php:234
 #: includes/elements/recent-portfolios.php:794
 msgid "Using the Ajax feature Makes the performance better"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:264
-#: includes/elements/elementor/recent-portfolios-masonry.php:251
-#: includes/elements/elementor/recent-portfolios-tile.php:269
+#: includes/elements/elementor/recent-portfolios-grid.php:258
+#: includes/elements/elementor/recent-portfolios-masonry.php:245
+#: includes/elements/elementor/recent-portfolios-tile.php:262
 msgid ""
 "Specifies a category that you want to show posts from it. In order to "
 "choose the all categories leave the field empty"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:275
-#: includes/elements/elementor/recent-portfolios-masonry.php:262
-#: includes/elements/elementor/recent-portfolios-tile.php:280
+#: includes/elements/elementor/recent-portfolios-grid.php:269
+#: includes/elements/elementor/recent-portfolios-masonry.php:256
+#: includes/elements/elementor/recent-portfolios-tile.php:273
 msgid "Number of posts to show"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:287
-#: includes/elements/elementor/recent-portfolios-masonry.php:274
-#: includes/elements/elementor/recent-portfolios-tile.php:292
+#: includes/elements/elementor/recent-portfolios-grid.php:281
+#: includes/elements/elementor/recent-portfolios-masonry.php:268
+#: includes/elements/elementor/recent-portfolios-tile.php:285
 msgid "Exclude posts without media"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:377
-#: includes/elements/elementor/recent-portfolios-masonry.php:365
-#: includes/elements/elementor/recent-portfolios-tile.php:383
+#: includes/elements/elementor/recent-portfolios-grid.php:371
+#: includes/elements/elementor/recent-portfolios-masonry.php:359
+#: includes/elements/elementor/recent-portfolios-tile.php:376
 msgid "Filters"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:385
-#: includes/elements/elementor/recent-portfolios-masonry.php:373
-#: includes/elements/elementor/recent-portfolios-tile.php:391
+#: includes/elements/elementor/recent-portfolios-grid.php:379
+#: includes/elements/elementor/recent-portfolios-masonry.php:367
+#: includes/elements/elementor/recent-portfolios-tile.php:384
 msgid "Display filters"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:397
-#: includes/elements/elementor/recent-portfolios-masonry.php:385
-#: includes/elements/elementor/recent-portfolios-tile.php:403
+#: includes/elements/elementor/recent-portfolios-grid.php:391
+#: includes/elements/elementor/recent-portfolios-masonry.php:379
+#: includes/elements/elementor/recent-portfolios-tile.php:396
 msgid "Filter By"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:398
-#: includes/elements/elementor/recent-portfolios-masonry.php:386
-#: includes/elements/elementor/recent-portfolios-masonry.php:404
-#: includes/elements/elementor/recent-portfolios-tile.php:404
-#: includes/elements/elementor/recent-portfolios-tile.php:422
+#: includes/elements/elementor/recent-portfolios-grid.php:392
+#: includes/elements/elementor/recent-portfolios-masonry.php:380
+#: includes/elements/elementor/recent-portfolios-masonry.php:398
+#: includes/elements/elementor/recent-portfolios-tile.php:397
+#: includes/elements/elementor/recent-portfolios-tile.php:415
 #: includes/elements/recent-portfolios.php:431
 msgid "Filter by categories or tags"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:402
-#: includes/elements/elementor/recent-portfolios-masonry.php:390
-#: includes/elements/elementor/recent-portfolios-tile.php:408
+#: includes/elements/elementor/recent-portfolios-grid.php:396
+#: includes/elements/elementor/recent-portfolios-masonry.php:384
+#: includes/elements/elementor/recent-portfolios-tile.php:401
 #: includes/elements/recent-portfolios.php:437
 msgid "Filter"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:403
-#: includes/elements/elementor/recent-portfolios-masonry.php:391
-#: includes/elements/elementor/recent-portfolios-tile.php:409
+#: includes/elements/elementor/recent-portfolios-grid.php:397
+#: includes/elements/elementor/recent-portfolios-masonry.php:385
+#: includes/elements/elementor/recent-portfolios-tile.php:402
 #: includes/elements/recent-portfolios.php:438
 msgid "Category"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:404
-#: includes/elements/elementor/recent-portfolios-masonry.php:392
-#: includes/elements/elementor/recent-portfolios-tile.php:410
+#: includes/elements/elementor/recent-portfolios-grid.php:398
+#: includes/elements/elementor/recent-portfolios-masonry.php:386
+#: includes/elements/elementor/recent-portfolios-tile.php:403
 #: includes/elements/recent-portfolios.php:439
 msgid "Tag"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:415
+#: includes/elements/elementor/recent-portfolios-grid.php:409
 msgid "Alignment"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:416
+#: includes/elements/elementor/recent-portfolios-grid.php:410
 msgid "Set the alignment for filters"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:430
-#: includes/elements/elementor/recent-portfolios-masonry.php:418
-#: includes/elements/elementor/recent-portfolios-tile.php:436
+#: includes/elements/elementor/recent-portfolios-grid.php:424
+#: includes/elements/elementor/recent-portfolios-masonry.php:412
+#: includes/elements/elementor/recent-portfolios-tile.php:429
 #: includes/elements/recent-portfolios.php:465 includes/general-hooks.php:1514
 msgid "Right"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:444
-#: includes/elements/elementor/recent-portfolios-masonry.php:432
-#: includes/elements/elementor/recent-portfolios-tile.php:450
+#: includes/elements/elementor/recent-portfolios-grid.php:438
+#: includes/elements/elementor/recent-portfolios-masonry.php:426
+#: includes/elements/elementor/recent-portfolios-tile.php:443
 msgid "Filter Button Style"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:445
-#: includes/elements/elementor/recent-portfolios-masonry.php:433
-#: includes/elements/elementor/recent-portfolios-tile.php:451
+#: includes/elements/elementor/recent-portfolios-grid.php:439
+#: includes/elements/elementor/recent-portfolios-masonry.php:427
+#: includes/elements/elementor/recent-portfolios-tile.php:444
 #: includes/elements/recent-portfolios.php:479
 msgid "Style of filter buttons."
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:450
-#: includes/elements/elementor/recent-portfolios-masonry.php:439
-#: includes/elements/elementor/recent-portfolios-tile.php:457
+#: includes/elements/elementor/recent-portfolios-grid.php:444
+#: includes/elements/elementor/recent-portfolios-masonry.php:433
+#: includes/elements/elementor/recent-portfolios-tile.php:450
 #: includes/elements/recent-portfolios.php:493
 msgid "Slide up"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:454
-#: includes/elements/elementor/recent-portfolios-masonry.php:443
-#: includes/elements/elementor/recent-portfolios-tile.php:461
+#: includes/elements/elementor/recent-portfolios-grid.php:448
+#: includes/elements/elementor/recent-portfolios-masonry.php:437
+#: includes/elements/elementor/recent-portfolios-tile.php:454
 #: includes/elements/recent-portfolios.php:497
 msgid "Fill"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:458
-#: includes/elements/elementor/recent-portfolios-masonry.php:447
-#: includes/elements/elementor/recent-portfolios-tile.php:465
+#: includes/elements/elementor/recent-portfolios-grid.php:452
+#: includes/elements/elementor/recent-portfolios-masonry.php:441
+#: includes/elements/elementor/recent-portfolios-tile.php:458
 #: includes/elements/recent-portfolios.php:501
 msgid "Cube"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:462
-#: includes/elements/elementor/recent-portfolios-masonry.php:451
-#: includes/elements/elementor/recent-portfolios-tile.php:469
+#: includes/elements/elementor/recent-portfolios-grid.php:456
+#: includes/elements/elementor/recent-portfolios-masonry.php:445
+#: includes/elements/elementor/recent-portfolios-tile.php:462
 #: includes/elements/recent-portfolios.php:505
 msgid "Underline"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:466
-#: includes/elements/elementor/recent-portfolios-masonry.php:455
-#: includes/elements/elementor/recent-portfolios-tile.php:473
+#: includes/elements/elementor/recent-portfolios-grid.php:460
+#: includes/elements/elementor/recent-portfolios-masonry.php:449
+#: includes/elements/elementor/recent-portfolios-tile.php:466
 #: includes/elements/recent-portfolios.php:509
 msgid "Float frame"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:470
-#: includes/elements/elementor/recent-portfolios-masonry.php:459
-#: includes/elements/elementor/recent-portfolios-tile.php:477
+#: includes/elements/elementor/recent-portfolios-grid.php:464
+#: includes/elements/elementor/recent-portfolios-masonry.php:453
+#: includes/elements/elementor/recent-portfolios-tile.php:470
 #: includes/elements/recent-portfolios.php:513
 msgid "Borderd"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:474
-#: includes/elements/elementor/recent-portfolios-masonry.php:463
-#: includes/elements/elementor/recent-portfolios-tile.php:481
+#: includes/elements/elementor/recent-portfolios-grid.php:468
+#: includes/elements/elementor/recent-portfolios-masonry.php:457
+#: includes/elements/elementor/recent-portfolios-tile.php:474
 #: includes/elements/recent-portfolios.php:517
 msgid "Float underline"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:478
-#: includes/elements/elementor/recent-portfolios-masonry.php:467
-#: includes/elements/elementor/recent-portfolios-tile.php:485
+#: includes/elements/elementor/recent-portfolios-grid.php:472
+#: includes/elements/elementor/recent-portfolios-masonry.php:461
+#: includes/elements/elementor/recent-portfolios-tile.php:478
 #: includes/elements/recent-portfolios.php:521
 msgid "DropDown"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:527
-#: includes/elements/elementor/recent-portfolios-grid.php:568
+#: includes/elements/elementor/recent-portfolios-grid.php:523
+#: includes/elements/elementor/recent-portfolios-grid.php:566
 #: includes/elements/elementor/recent-portfolios-grid.php:609
-#: includes/elements/elementor/recent-portfolios-grid.php:1117
-#: includes/elements/elementor/recent-portfolios-grid.php:1290
-#: includes/elements/elementor/recent-portfolios-masonry.php:987
+#: includes/elements/elementor/recent-portfolios-grid.php:1121
+#: includes/elements/elementor/recent-portfolios-grid.php:1296
+#: includes/elements/elementor/recent-portfolios-masonry.php:985
 msgid "Padding"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:582
+#: includes/elements/elementor/recent-portfolios-grid.php:580
 msgid "Active"
 msgstr ""
 
 #: includes/elements/elementor/recent-portfolios-grid.php:687
 #: includes/elements/elementor/recent-portfolios-grid.php:695
-#: includes/elements/elementor/recent-portfolios-masonry.php:542
-#: includes/elements/elementor/recent-portfolios-masonry.php:550
-#: includes/elements/elementor/recent-portfolios-tile.php:560
-#: includes/elements/elementor/recent-portfolios-tile.php:568
+#: includes/elements/elementor/recent-portfolios-masonry.php:536
+#: includes/elements/elementor/recent-portfolios-masonry.php:544
+#: includes/elements/elementor/recent-portfolios-tile.php:553
+#: includes/elements/elementor/recent-portfolios-tile.php:561
 #: includes/elements/recent-portfolios.php:575
 msgid "Paginate"
 msgstr ""
 
 #: includes/elements/elementor/recent-portfolios-grid.php:696
-#: includes/elements/elementor/recent-portfolios-masonry.php:551
-#: includes/elements/elementor/recent-portfolios-tile.php:569
+#: includes/elements/elementor/recent-portfolios-masonry.php:545
+#: includes/elements/elementor/recent-portfolios-tile.php:562
 #: includes/elements/recent-portfolios.php:576
 msgid "Paginates the portfolio items"
 msgstr ""
 
 #: includes/elements/elementor/recent-portfolios-grid.php:707
-#: includes/elements/elementor/recent-portfolios-masonry.php:562
-#: includes/elements/elementor/recent-portfolios-tile.php:580
+#: includes/elements/elementor/recent-portfolios-masonry.php:556
+#: includes/elements/elementor/recent-portfolios-tile.php:573
 #: includes/elements/recent-portfolios.php:587
 msgid "Items number perpage"
 msgstr ""
 
 #: includes/elements/elementor/recent-portfolios-grid.php:720
-#: includes/elements/elementor/recent-portfolios-masonry.php:575
-#: includes/elements/elementor/recent-portfolios-tile.php:593
+#: includes/elements/elementor/recent-portfolios-masonry.php:569
+#: includes/elements/elementor/recent-portfolios-tile.php:586
 #: includes/elements/recent-portfolios.php:603
 msgid "Load More Type"
 msgstr ""
 
 #: includes/elements/elementor/recent-portfolios-grid.php:728
-#: includes/elements/elementor/recent-portfolios-masonry.php:583
-#: includes/elements/elementor/recent-portfolios-tile.php:601
+#: includes/elements/elementor/recent-portfolios-masonry.php:577
+#: includes/elements/elementor/recent-portfolios-tile.php:594
 #: includes/elements/recent-portfolios.php:623
 msgid "Infinite Scroll"
 msgstr ""
 
 #: includes/elements/elementor/recent-portfolios-grid.php:736
-#: includes/elements/elementor/recent-portfolios-masonry.php:591
-#: includes/elements/elementor/recent-portfolios-tile.php:609
+#: includes/elements/elementor/recent-portfolios-masonry.php:585
+#: includes/elements/elementor/recent-portfolios-tile.php:602
 #: includes/elements/recent-portfolios.php:631
 msgid "Next Prev"
 msgstr ""
 
 #: includes/elements/elementor/recent-portfolios-grid.php:750
-#: includes/elements/elementor/recent-portfolios-masonry.php:605
-#: includes/elements/elementor/recent-portfolios-tile.php:623
+#: includes/elements/elementor/recent-portfolios-masonry.php:599
+#: includes/elements/elementor/recent-portfolios-tile.php:616
 #: includes/elements/recent-portfolios.php:637
 msgid "Load More Label"
 msgstr ""
 
 #: includes/elements/elementor/recent-portfolios-grid.php:755
-#: includes/elements/elementor/recent-portfolios-masonry.php:610
-#: includes/elements/elementor/recent-portfolios-tile.php:628
+#: includes/elements/elementor/recent-portfolios-masonry.php:604
+#: includes/elements/elementor/recent-portfolios-tile.php:621
 #: includes/elements/recent-portfolios.php:646
 msgid "Arrow"
 msgstr ""
 
 #: includes/elements/elementor/recent-portfolios-grid.php:756
-#: includes/elements/elementor/recent-portfolios-masonry.php:611
-#: includes/elements/elementor/recent-portfolios-tile.php:629
+#: includes/elements/elementor/recent-portfolios-masonry.php:605
+#: includes/elements/elementor/recent-portfolios-tile.php:622
 #: includes/elements/recent-portfolios.php:647
 msgid "Text & Arrow"
 msgstr ""
@@ -1961,131 +1961,131 @@ msgstr ""
 msgid "Vertical 3   : 4"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:1010
+#: includes/elements/elementor/recent-portfolios-grid.php:1012
 #: public/templates/theme-parts/entry/portfolio-column-overlay.php:68
 #: public/templates/theme-parts/entry/portfolio-column.php:77
 msgid "Read More"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:1036
-#: includes/elements/elementor/recent-portfolios-grid.php:1075
+#: includes/elements/elementor/recent-portfolios-grid.php:1038
+#: includes/elements/elementor/recent-portfolios-grid.php:1077
 msgid "Read More Background"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:1130
+#: includes/elements/elementor/recent-portfolios-grid.php:1134
 msgid "Read More Border"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:1282
-#: includes/elements/elementor/recent-portfolios-masonry.php:979
+#: includes/elements/elementor/recent-portfolios-grid.php:1288
+#: includes/elements/elementor/recent-portfolios-masonry.php:977
 msgid "Wrapper"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:1302
+#: includes/elements/elementor/recent-portfolios-grid.php:1308
 msgid "Item Bottom space"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:1323
-#: includes/elements/elementor/recent-portfolios-masonry.php:1000
+#: includes/elements/elementor/recent-portfolios-grid.php:1329
+#: includes/elements/elementor/recent-portfolios-masonry.php:998
 msgid "Entry Box Background"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-grid.php:1336
-#: includes/elements/elementor/recent-portfolios-masonry.php:1013
+#: includes/elements/elementor/recent-portfolios-grid.php:1342
+#: includes/elements/elementor/recent-portfolios-masonry.php:1011
 #: includes/elements/recent-portfolios.php:378 includes/general-hooks.php:2728
 #: includes/general-hooks.php:2799
 msgid "Entry Box Border Color"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-masonry.php:55
+#: includes/elements/elementor/recent-portfolios-masonry.php:49
 msgid "Masonry Portfolios"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-masonry.php:175
-#: includes/elements/elementor/recent-portfolios-tile.php:204
+#: includes/elements/elementor/recent-portfolios-masonry.php:169
+#: includes/elements/elementor/recent-portfolios-tile.php:197
 msgid "Display Categories"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-masonry.php:403
-#: includes/elements/elementor/recent-portfolios-tile.php:421
+#: includes/elements/elementor/recent-portfolios-masonry.php:397
+#: includes/elements/elementor/recent-portfolios-tile.php:414
 #: includes/elements/recent-portfolios.php:450
 msgid "Filter Control Alignment"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-masonry.php:622
+#: includes/elements/elementor/recent-portfolios-masonry.php:616
 msgid "Load More Per Page"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:55
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:48
 msgid "Tiles Carousel Portfolios"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:146
-#: includes/elements/elementor/recent-portfolios-tile.php:144
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:139
+#: includes/elements/elementor/recent-portfolios-tile.php:137
 msgid "Post tile styles"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:164
-#: includes/elements/elementor/recent-portfolios-tile.php:162
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:157
+#: includes/elements/elementor/recent-portfolios-tile.php:155
 #: includes/elements/recent-portfolios.php:264
 msgid "Pattern 3"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:168
-#: includes/elements/elementor/recent-portfolios-tile.php:166
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:161
+#: includes/elements/elementor/recent-portfolios-tile.php:159
 #: includes/elements/recent-portfolios.php:268
 msgid "Pattern 4"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:172
-#: includes/elements/elementor/recent-portfolios-tile.php:170
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:165
+#: includes/elements/elementor/recent-portfolios-tile.php:163
 #: includes/elements/recent-portfolios.php:272
 msgid "Pattern 5"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:176
-#: includes/elements/elementor/recent-portfolios-tile.php:174
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:169
+#: includes/elements/elementor/recent-portfolios-tile.php:167
 #: includes/elements/recent-portfolios.php:276
 msgid "Pattern 6"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:180
-#: includes/elements/elementor/recent-portfolios-tile.php:178
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:173
+#: includes/elements/elementor/recent-portfolios-tile.php:171
 #: includes/elements/recent-portfolios.php:280
 msgid "Pattern 7"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:184
-#: includes/elements/elementor/recent-portfolios-tile.php:182
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:177
+#: includes/elements/elementor/recent-portfolios-tile.php:175
 #: includes/elements/recent-portfolios.php:284
 msgid "Pattern 8"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:206
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:199
 #: includes/elements/recent-portfolios-tile-carousel.php:258
 #: includes/elements/recent-portfolios.php:752
 msgid "Insert portfolio meta"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:380
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:373
 #: includes/elements/recent-portfolios-tile-carousel.php:119
 msgid "Number of Pages"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:490
-#: includes/elements/elementor/recent-portfolios-tile.php:657
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:483
+#: includes/elements/elementor/recent-portfolios-tile.php:650
 msgid "Tiles hover type"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:518
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:511
 msgid "Tiles Hover Background"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-tile-carousel.php:647
+#: includes/elements/elementor/recent-portfolios-tile-carousel.php:642
 msgid "Meta Info"
 msgstr ""
 
-#: includes/elements/elementor/recent-portfolios-tile.php:56
+#: includes/elements/elementor/recent-portfolios-tile.php:49
 msgid "Tiles Portfolios"
 msgstr ""
 
