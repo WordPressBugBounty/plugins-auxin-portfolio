@@ -49,6 +49,11 @@ class Recent_Portfolios_Tile extends Widget_Base {
         return __('Tiles Portfolios', 'auxin-portfolio' );
     }
 
+    public function has_widget_inner_wrapper(): bool {
+        return true;
+    }
+
+
     /**
      * Get widget icon.
      *

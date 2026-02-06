@@ -12,14 +12,14 @@
  * Plugin Name:       Phlox Portfolio
  * Plugin URI:        http://phlox.pro/
  * Description:       Showcase your projects beautifully in Phlox theme
- * Version:           2.3.10
+ * Version:           2.3.12
  * Author:            averta
  * Author URI:        http://averta.net
  * License:           GPL2
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       auxin-portfolio
  * Domain Path:       /languages
- * Tested up to: 	  6.8.1
+ * Tested up to: 	  6.8.2
  * Requires Plugins:  auxin-elements
  */
 

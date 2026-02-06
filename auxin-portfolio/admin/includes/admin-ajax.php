@@ -35,6 +35,25 @@ function auxin_recent_portfolios_ajax_handler() {
         wp_send_json_error( 'template file is not valid.');
     }
 
+    $allowed_base = realpath( AUXPFO_PUB_DIR . '/templates/elements' );
+
+    if ( isset( $args['extra_template_path'] ) ) {
+        $extra_path = $args['extra_template_path'];
+
+        if ( preg_match( '/^[a-zA-Z0-9]+:\/\//', $extra_path ) ) {
+            wp_send_json_error( __( 'Invalid path scheme.', 'auxin-portfolio' ) );
+        }
+
+        $real_path = realpath( $extra_path );
+
+        if (
+            $real_path === false ||
+            strpos( $real_path, $allowed_base ) !== 0
+        ) {
+            wp_send_json_error( __( 'Invalid template path.', 'auxin-portfolio' ) );
+        }
+    }
+
     include auxin_get_template_file( $args['template_part_file'], '', $args['extra_template_path'] );
 
     $output = auxin_widget_recent_portfolios_grid_callback( $args );

@@ -6,8 +6,8 @@ License URI: http://www.gnu.org/licenses/gpl.html
 Tags: phlox, gallery, elementor, portfolio, averta, auxin, fullwidth, masonry, timeline, projects, showcase, minimal, wix, flat
 Requires PHP: 5.6
 Requires at least: 4.7
-Tested up to: 6.8.1
-Stable tag: 2.3.10
+Tested up to: 6.8.2
+Stable tag: 2.3.12
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 
@@ -134,6 +134,10 @@ Bugs can be reported in our [support forums](http://support.averta.net/en/item/p
 
 
 == Changelog ==
+
+
+= Version 2.3.12 / (31.09.2025) =
+- [Improvement]: Compatibility with Elementor optimized dom deprecation applied.
 
 = Version 2.3.10 / (25.06.2025) =
 - [Improvement]: Layout improvement for portfolio grid element applied.

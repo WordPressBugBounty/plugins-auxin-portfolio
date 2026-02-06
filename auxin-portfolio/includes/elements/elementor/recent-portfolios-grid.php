@@ -50,6 +50,11 @@ class Recent_Portfolios_Grid extends Widget_Base {
         return __('Grid Portfolios', 'auxin-portfolio' );
     }
 
+    public function has_widget_inner_wrapper(): bool {
+        return true;
+    }
+
+
     /**
      * Get widget icon.
      *

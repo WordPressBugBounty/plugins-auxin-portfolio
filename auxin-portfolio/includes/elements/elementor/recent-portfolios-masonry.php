@@ -49,6 +49,11 @@ class Recent_Portfolios_Masonry extends Widget_Base {
         return __('Masonry Portfolios', 'auxin-portfolio' );
     }
 
+    public function has_widget_inner_wrapper(): bool {
+        return true;
+    }
+
+
     /**
      * Get widget icon.
      *

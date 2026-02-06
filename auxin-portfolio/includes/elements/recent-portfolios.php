@@ -970,7 +970,7 @@ function auxin_widget_recent_portfolios_grid_callback( $atts, $shortcode_content
 
     include_once auxin_get_template_file( $template_part_file, '', $extra_template_path );
     echo auxin_recent_portfolio( $result['parsed_atts'] );
-    echo '<script type="text/javascript">var ' . esc_js( $universal_id ) . 'AjaxConfig = ' . wp_json_encode( $result['parsed_atts'] ) . ';</script>';
+    echo '<script type="text/javascript">var ' . preg_replace('/[^a-zA-Z0-9_]/', '', $universal_id) . 'AjaxConfig = ' . wp_json_encode( $result['parsed_atts'] ) . ';</script>';
 
     // widget footer ------------------------------
     echo wp_kses_post( $result['widget_footer'] );

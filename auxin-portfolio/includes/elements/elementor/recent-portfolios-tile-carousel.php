@@ -48,6 +48,11 @@ class Recent_Portfolios_Tile_Carousel_Carousel extends Widget_Base {
         return __('Tiles Carousel Portfolios', 'auxin-portfolio' );
     }
 
+    public function has_widget_inner_wrapper(): bool {
+        return true; 
+    }
+
+
     /**
      * Get widget icon.
      *
